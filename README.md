@@ -4,7 +4,7 @@
 This project aims to identify target audience, product offering, and pricing strategies for a new coffee shop that utilizes dataset from a survey of American respondents.
 
 **About the dataset:**  
-This project aims to identify target audience, product offering, and pricing strategies for a new coffee shop that utilizes dataset from a survey of American respondents.
+The provided data originated from James Hoffmann’s Great American Coffee Taste Test and was accompanied by a sheet of metadata including 55 questions, their types, and corresponding answer possibilities. The survey data utilized for this project was comprised of 111 columns, which included the breakdowns for any multiple-select question into Boolean columns with True/False values for each option.
 
 <div style="text-align:center">
     <p style="font-weight:bold;">Target Audience</p>
